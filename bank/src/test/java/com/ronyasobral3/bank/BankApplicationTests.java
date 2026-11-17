@@ -1,4 +1,4 @@
-package com.ronyasobral3.bank.bank;
+package com.ronyasobral3.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
